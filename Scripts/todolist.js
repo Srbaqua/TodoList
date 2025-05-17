@@ -1,0 +1,4 @@
+const todoList = []
+function addTodo(){
+        
+}
